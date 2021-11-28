@@ -2,9 +2,9 @@
 layout: base.njk
 permalink: /about/
 ---
-<h3>About</h3>
-I'm a father and husband currently leaving in Accra Tema (UTC + 0). 
-I am married to the ever lovely Mawuli, and blessed with 2 little boys, Etornam and Exornam.
+<h3>Me</h3>
+I'm a father and husband currently living in Ghana (UTC + 0), in the city of Tema. 
+I am married to the ever lovely Mawuli, and blessed with 2 little boys; Etornam and Exornam.
 I love to create.
 
 <h3>Work</h3>

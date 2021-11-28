@@ -1,7 +1,16 @@
 ---
 layout: base.njk
 ---
-<span class='post-date'>{{date | readableDate}}</span>
+<span class='post-date'>{{date | readableDate}}</span> 
+ {% if tags %}
+    <span class='tags'>
+    {% for tag in tags %}
+      {%- if tag != "post" -%}
+        {{ tag }}
+      {%- endif -%}
+    {% endfor %}
+    </span>
+  {% endif %}
 <article>
 {{ content | safe}}
 </article>
