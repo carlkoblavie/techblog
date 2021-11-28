@@ -51,4 +51,11 @@ nav a {
 
 main {
   line-height: 1.35;
+  text-align: justify;
+}
+
+@media only screen and (min-width: 780px) {
+  body main {
+    width: 60%;
+  }
 }
