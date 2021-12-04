@@ -1,6 +1,6 @@
 ---
 title: I am off social media
-date: 2021-11-20
+date: 2021-12-4
 layout: post.njk
 tags:
   - post
