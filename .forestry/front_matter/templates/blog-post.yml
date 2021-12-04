@@ -16,14 +16,15 @@ fields:
     date_format: 
     time_format: 
     display_utc: false
-- name: tags
-  type: tag_list
-  default: []
-  label: tags
 - name: layout
   type: text
   config:
     required: false
   label: layout
+- name: tags
+  type: tag_list
+  default:
+  - post
+  label: tags
 pages:
 - src/posts/a-new-blog.md
