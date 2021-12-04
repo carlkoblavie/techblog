@@ -20,5 +20,10 @@ fields:
   type: tag_list
   default: []
   label: tags
+- name: layout
+  type: text
+  config:
+    required: false
+  label: layout
 pages:
 - src/posts/a-new-blog.md
