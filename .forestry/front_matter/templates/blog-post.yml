@@ -21,8 +21,10 @@ fields:
 - name: layout
   type: text
   config:
-    required: false
+    required: true
   label: layout
+  default: post.njk
+  hidden: false
 - name: tags
   type: tag_list
   default:
