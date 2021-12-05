@@ -9,15 +9,14 @@ title: Don't say no
 ---
 I have noticed something interesting about my son Etornam. Many times he comes to me requesting one thing or another.
 
-'Daddy, I want to watch Pepa Pig' for eg, right after waking up. As a father, I am not going to turn on the TV for a 3-year-old and have him binge Pepa Pig at 7:00 am in the morning. Granted, there was no school. There are better ways for a toddler to spend his first few hours in the morning other than settling in front of the TV.
-
+'Daddy, I want to watch Pepa Pig' for eg, right after waking up. As a father, I am not going to turn on the TV for a 3-year-old and have him binge Pepa Pig at 7:00 am in the morning. Granted, there was no school. There are better ways for a toddler to spend his first few hours in the morning other than settling in front of the TV.  
 I will have said No! And then a tantrum will ensue. He will break down in tears. I will have to either respond sternly or if I wasn't in the mood for a meltdown, just give in - defeated.
 
 But now, I'm wiser. I noticed that instead of responding No to some of these demands, I rather engage him;
 
 > Etornam: 'Daddy I want to watch TV' Me: 'OK. That's fine. Why don't we brush our teeth first' Etornam: 'and after I can watch TV?' Me: 'hmm maybe ... yes' Etornam: 'Oh Goodie'
 
-After brushing his teeth, we are at it again. I acknowledge his request, and then respond with something more helpful like ... 'Ok that's good. Let's scribble some numbers first and then some alphabets.' This is normally met with some resistance. So I will need to table some more appealing options. 'Let me tell you a story' or 'let's play some soccer ball' or better still 'let's go and prepare some eggs', without uttering the dreaded 'No!'.
+After brushing his teeth, we are at it again. I acknowledge his request, and then respond with something more helpful like ... 'Ok that's good. Let's scribble some numbers first and then some alphabets.' This is normally met with some resistance. So I will need to table some more appealing options. 'Let me tell you a story or 'let's play some soccer ball' or better still 'let's go and prepare some eggs', without uttering the dreaded 'No!'.
 
 Recently I gave him another excuse to take him away from the TV - 'The internet is off'. To which he responded - 'OK then I have to play with my blocks'. I almost screamed for joy. Yes! That's right. Let's play with your blocks.
 
