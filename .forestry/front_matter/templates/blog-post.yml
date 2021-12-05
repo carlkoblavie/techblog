@@ -32,3 +32,4 @@ fields:
   label: tags
 pages:
 - src/posts/a-new-blog.md
+- src/posts/don-t-say-no.md
