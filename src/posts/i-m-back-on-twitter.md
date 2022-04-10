@@ -1,9 +1,9 @@
 ---
-date: 2022-04-10 12:00:0 AM
+date: 2022-04-08
 layout: post.njk
 tags:
 - post
 title: I'm back on twitter
 
 ---
-I'm baack MM!!!
+I'm baack MM
