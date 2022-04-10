@@ -14,7 +14,10 @@ I will have said No! And then a tantrum will ensue. He will break down in tears.
 
 But now, I'm wiser. I noticed that instead of responding No to some of these demands, I rather engage him;
 
-> Etornam: 'Daddy I want to watch TV' Me: 'OK. That's fine. Why don't we brush our teeth first' Etornam: 'and after I can watch TV?' Me: 'hmm maybe ... yes' Etornam: 'Oh Goodie'
+<p>Etornam: 'Daddy I want to watch TV'</p>
+<p> Me: 'OK. That's fine. Why don't we brush our teeth first'</p>
+<p>Etornam: 'and after I can watch TV?'</p>
+</p> Me: 'hmm maybe ... yes' Etornam: 'Oh goodie'</p>
 
 After brushing his teeth, we are at it again. I acknowledge his request, and then respond with something more helpful like ... 'Ok that's good. Let's scribble some numbers first and then some alphabets.' This is normally met with some resistance. So I will need to table some more appealing options. 'Let me tell you a story or 'let's play some soccer ball' or better still 'let's go and prepare some eggs', without uttering the dreaded 'No!'.
 

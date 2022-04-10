@@ -1,6 +1,6 @@
 body {
   padding: 40px;
-  font-family:"Segoe UI", "Helvetica", "Arial", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-family: "Libre Baskerville", serif;;
 }
 
 body h1 a {
@@ -51,7 +51,6 @@ nav a {
 
 main {
   line-height: 1.35;
-  text-align: justify;
 }
 
 @media only screen and (min-width: 780px) {

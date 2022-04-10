@@ -5,6 +5,7 @@ layout: post.njk
 tags:
 - post
 - productivity
+draft: true
 
 ---
 This is my first post
