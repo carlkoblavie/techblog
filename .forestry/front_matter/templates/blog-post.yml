@@ -30,9 +30,13 @@ fields:
   default:
   - post
   label: tags
+- name: draft
+  type: boolean
+  label: draft
+  default: true
+  description: turn off to publish this post
 pages:
-- src/posts/a-new-blog.md
-- src/posts/don-t-say-no.md
 - src/posts/i-am-off-social-media.md
-- src/posts/i-m-back-on-twitter.md
-- src/posts/what-are-you-committing-to.md
+- src/posts/i-am-off-social-media.md
+- src/posts/third-post.md
+- src/posts/third-post.md
