@@ -5,7 +5,7 @@ layout: post.njk
 tags:
 - post
 - social media
-draft: true
+draft: false
 
 ---
 My relationship with social media has been one of love/hate. Facebook and Instagram were my early social media hangout places. They brought me close to former mates and colleagues. Twitter, later on, introduced me to a lot of new influencers and ideas that I've found very beneficial.
