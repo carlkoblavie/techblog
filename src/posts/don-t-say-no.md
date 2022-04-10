@@ -24,4 +24,4 @@ Finally, I will have to give in to the TV demand but it should be within healthy
 
 I've found this strategy of engaging, rather than responding with a definite No, a lot more useful. I've learned that kids are always in activity mood. If I'm not happy with an activity he wants to do, rather than forcing the issue, I only need to suggest replacements. As often as it is shot down, I will need to come up with better ideas.
 
-It has helped in guiding him towards healthier and better options. Of course, it doesn't always work out and his stubbornness gets the better side of me sometimes. This is still a works in progress but I am loving the results so far.
+It has helped in guiding him towards healthier and better options. Of course, it doesn't always work out and his stubbornness gets the better side of me sometimes. This is still a works in progress but I am loving the results so far
