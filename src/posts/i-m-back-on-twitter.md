@@ -1,5 +1,5 @@
 ---
-date: 2022-04-10
+date: 2022/04/10
 layout: post.njk
 tags:
 - post
