@@ -36,4 +36,5 @@ fields:
   default: true
   description: turn off to publish this post
 pages:
+- src/posts/i-am-off-social-media.md
 - src/posts/third-post.md
