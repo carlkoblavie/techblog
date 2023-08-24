@@ -2,8 +2,7 @@
 layout: base.njk
 ---
 <section>
-Hi! I'm Carl. Welcome to my tech blog, where I write about things I've found useful, interesting and helpful in my profession in Software Engieering. 
-
+Hi! I'm Carl. I write about things I've found interesting and useful in tech. The ups and the downs.
 </section>
 <section>
 {% include "postlist.njk" %}
