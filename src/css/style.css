@@ -38,9 +38,13 @@ article {
 
 nav {
   display: flex;
-  margin-bottom: 50px;
+  margin-bottom: 30px;
   justify-content: space-between;
   width: 250px;
+}
+
+nav div a {
+  font-weight: bold;
 }
 
 a {

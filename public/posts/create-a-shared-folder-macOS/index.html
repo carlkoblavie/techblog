@@ -1,0 +1,68 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Create a shared folder on mac OS</title>
+
+<link rel="stylesheet" href="../../css/style.css">
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Roboto:wght@300&display=swap');
+</style>
+</head>
+<body>
+  <h1><a href='/'>Carl Koblavie</a></h1>
+<nav>
+  <div><a href="/about">about</a></div>
+  <div><a href="/projects">projects</a></div>
+  <div><a href="/">posts</a></div>
+</nav>
+
+  <header>
+    <h2>Create a shared folder on mac OS</h2>
+  </header>
+  <main>
+    <span class='post-date'>27 Aug 2023</span> 
+ 
+    <span class='tags'>
+    
+    </span>
+  
+<article>
+<ol>
+<li>Create the folder in a location that makes sense. For example, you can create it in <code>/Users/Shared</code> directory
+which is designed for shared content.
+In your Terminal type the following command to crete the shared folder</li>
+</ol>
+<p>`
+sudo mkdir -p /Users/Shared/technotes</p>
+<p>`
+[comment]: # (TODO: Explain why we are using sudo)</p>
+<p>Replace <code>technotes</code> with your desired folder name</p>
+<ol start="2">
+<li>Set Group ownership:
+You can create a group that includes all the users who need access to the shared folder. Then assign ownership of the folder to that group. LEt's call this group <code>techies</code>
+`
+sudo dseditgroup -o create techies
+sudo chown :techies /Users/Shared/technotes</li>
+</ol>
+<p>`</p>
+<ol start="3">
+<li>Add Users to the Group:
+Add the user profiles that should have access to the shared folder to the newly created group. Let's assume we have a profile with username <code>esinam</code></li>
+</ol>
+<p><code>sudo dseditgroup -o edit -a esinam -t user techies</code></p>
+<ol start="4">
+<li>Set Folder Permissions:
+Set the appropriate permissions for the shared folder to allow group members to access it</li>
+</ol>
+<p><code>sudo chmod 770 /Users/Shared/technotes</code></p>
+<p>The <code>770</code> permissions ensure that the owner and the group members have read, write, and execute access to the folder.</p>
+<p>Now, users who are part of the shared group should be able to access the folder and its contents. They can read, write, and manage files within the shared folder.</p>
+
+</article>
+
+  </main>
+</body>
+</html>
